@@ -1,8 +1,9 @@
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
 #AutoIt3Wrapper_Icon=GenMdP2.ico
-#AutoIt3Wrapper_Outfile_x64=GenMdP2.exe
+#AutoIt3Wrapper_Outfile_x64=..\GenMdP2.exe
 #AutoIt3Wrapper_Compression=4
 #AutoIt3Wrapper_UseUpx=y
+#AutoIt3Wrapper_Compile_Both=y
 #AutoIt3Wrapper_Add_Constants=n
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #cs ----------------------------------------------------------------------------
